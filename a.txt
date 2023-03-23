@@ -1,0 +1,21 @@
+welcome
+git to github tutorial
+
+git init
+git add .
+git commit -m "name"
+git log 
+
+git to git hub
+
+
+git remote -v
+git remote origin lint url
+
+git push origin master
+user name
+passwd
+
+
+git log
+
